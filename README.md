@@ -1,5 +1,7 @@
 # PrivateVote - A Decentralized Voting System on Aleo
 
+#### Discord: dyxa\_
+
 ## Overview
 
 `PrivateVote` is a decentralized application written in Leo for the Aleo platform. It provides functionality for users to create proposals and for participants to vote on them.
